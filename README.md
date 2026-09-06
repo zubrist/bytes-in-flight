@@ -1,13 +1,11 @@
-# Bytes in Flight 🌐
 
-Welcome to the official Computer Networks reading and reference repository designed for students. This space covers everything from physical signal propagation to application-layer protocols, breaking down core networking concepts into structured, digestible reading materials.
 
 ---
 
-## 📚 Course Roadmap & Syllabus Tracker
+## 📚 Roadmap Tracker
 
 - [ ] **1. Overview of Data Communication and Networking**
-  - [ ] Introduction: Data communications components, data representation, and direction of data flow (simplex, half-duplex, full-duplex).
+  - [✅ ] Introduction: Data communications components, data representation, and direction of data flow (simplex, half-duplex, full-duplex).
   - [ ] Network Hardware: Physical structure (connection types, network topologies), and categories of networks (LAN, MAN, WAN).
   - [ ] Internet: Brief history, protocols, and standards.
   - [ ] Reference Models: OSI reference model, properties of all layers, TCP/IP reference model, and their comparative study.
