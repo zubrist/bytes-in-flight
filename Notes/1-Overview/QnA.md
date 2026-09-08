@@ -30,3 +30,13 @@
 - Multipoint (Multidrop) Connection: A single physical link is shared spatially or temporally by three or more specific devices . If devices use the link simultaneously, it is spatially shared; if they must take turns, it is *timeshared*.
 
 ---
+
+## ```[2021 Honours - Q1(a)] / [2022 General SEC-A-X-I - Q3(a)]``` Highlight the main differences between LAN and WAN.
+
+**Geographic Coverage:** A Local Area Network (LAN) normally covers a highly limited area of less than 2 miles, such as a single room, building, or campus . A Wide Area Network (WAN) spans a vast geographic area, such as a country, continent, or the entire world
+
+**Ownership:** LANs are typically privately owned by the organization that owns the attached devices. WANs are normally leased from or run by common carriers or public multi-carrier infrastructures. 
+
+**Data Rates:** LANs have extremely high internal data rates, normally operating at speeds of 100 Mbps or 1000 Mbps . WANs traditionally have lower data rates relative to the distances covered .
+
+**Media and Topology:** LANs use a single type of transmission medium and follow structured topologies (primarily star, bus, or ring). WANs use complex switching nodes (routers) interconnected by circuit-switched or packet-switched technologies .
