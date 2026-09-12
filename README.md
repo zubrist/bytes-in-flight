@@ -4,7 +4,7 @@
 
 ## 📚 Roadmap Tracker
 
-- [ ] **1. Overview of Data Communication and Networking**
+- [✅] **1. Overview of Data Communication and Networking**
   - [✅] Introduction: Data communications components, data representation, and direction of data flow (simplex, half-duplex, full-duplex).
   - [✅] Network Hardware: Physical structure (connection types, network topologies), and categories of networks (LAN, MAN, WAN).
   - [✅] Internet: Brief history, protocols, and standards.
